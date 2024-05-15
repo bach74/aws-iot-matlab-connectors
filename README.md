@@ -1,6 +1,5 @@
 # AWS IoT Connectors for Matlab/Simulink
 
-## todo: prowritingaid
 
 This project provides code and blocks that will enable connet models and simulations running in Matlab with AWS IoT Services and to exchange data with the them. Two example projects are also provided for the quick start.
 

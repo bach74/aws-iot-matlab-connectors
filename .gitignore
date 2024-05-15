@@ -1,0 +1,7 @@
+.vscode
+slprj
+*.slxc
+.DS_Store
+**.autosave
+*.asv
+**/Simscape-Wind-Turbine* 

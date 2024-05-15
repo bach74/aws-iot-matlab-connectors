@@ -1,0 +1,19 @@
+<?xml-stylesheet href="defaultstyles.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg_3" width="64" height="44" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock">
+	<defs>
+		<style>
+			.font-size-default {
+				font-size:10px;}
+			.font-size-extra-large {
+				font-size:18px;}
+					</style>
+	</defs>
+	<g id="layer_4" title="layer_0">
+		<text id="text_5" class="text font-size-extra-large" x="6.5" y="6.51">
+			<tspan dx="0" dy="16.5" x="6.5">MQTT</tspan>
+		</text>
+		<text id="text_6" class="text font-size-default" x="18.1" y="27.24">
+			<tspan dx="0" dy="9" x="18.1">output</tspan>
+		</text>
+	</g>
+</svg>
